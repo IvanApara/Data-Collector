@@ -1,0 +1,1458 @@
+{
+  "stations": [
+    {
+      "name": "Бульвар Рокоссовского",
+      "nameLine": "Сокольническая линия",
+      "depth": "-8",
+      "transition": true
+    },
+    {
+      "name": "Черкизовская",
+      "nameLine": "Сокольническая линия",
+      "transition": true
+    },
+    {
+      "name": "Преображенская площадь",
+      "nameLine": "Сокольническая линия",
+      "transition": false
+    },
+    {
+      "name": "Сокольники",
+      "nameLine": "Сокольническая линия",
+      "transition": false
+    },
+    {
+      "name": "Красносельская",
+      "nameLine": "Сокольническая линия",
+      "depth": "-8",
+      "transition": false
+    },
+    {
+      "name": "Комсомольская",
+      "nameLine": "Сокольническая линия",
+      "transition": true
+    },
+    {
+      "name": "Красные ворота",
+      "nameLine": "Сокольническая линия",
+      "transition": false
+    },
+    {
+      "name": "Чистые пруды",
+      "nameLine": "Сокольническая линия",
+      "transition": true
+    },
+    {
+      "name": "Лубянка",
+      "nameLine": "Сокольническая линия",
+      "depth": "-32,5",
+      "transition": true
+    },
+    {
+      "name": "Охотный ряд",
+      "nameLine": "Сокольническая линия",
+      "transition": true
+    },
+    {
+      "name": "Библиотека имени Ленина",
+      "nameLine": "Сокольническая линия",
+      "transition": true
+    },
+    {
+      "name": "Кропоткинская",
+      "nameLine": "Сокольническая линия",
+      "depth": "-13",
+      "transition": false
+    },
+    {
+      "name": "Парк Культуры",
+      "nameLine": "Сокольническая линия",
+      "transition": true
+    },
+    {
+      "name": "Фрунзенская",
+      "nameLine": "Сокольническая линия",
+      "depth": "-42",
+      "transition": false
+    },
+    {
+      "name": "Спортивная",
+      "nameLine": "Сокольническая линия",
+      "transition": true
+    },
+    {
+      "name": "Воробьевы горы",
+      "nameLine": "Сокольническая линия",
+      "transition": false
+    },
+    {
+      "name": "Университет",
+      "nameLine": "Сокольническая линия",
+      "transition": false
+    },
+    {
+      "name": "Проспект Вернадского",
+      "nameLine": "Сокольническая линия",
+      "depth": "-8",
+      "transition": false
+    },
+    {
+      "name": "Юго-Западная",
+      "nameLine": "Сокольническая линия",
+      "depth": "-8",
+      "transition": false
+    },
+    {
+      "name": "Тропарёво",
+      "nameLine": "Сокольническая линия",
+      "depth": "-12",
+      "transition": false
+    },
+    {
+      "name": "Румянцево",
+      "nameLine": "Сокольническая линия",
+      "transition": false
+    },
+    {
+      "name": "Саларьево",
+      "nameLine": "Сокольническая линия",
+      "depth": "-12",
+      "transition": false
+    },
+    {
+      "name": "Филатов Луг",
+      "nameLine": "Сокольническая линия",
+      "transition": false
+    },
+    {
+      "name": "Прокшино",
+      "nameLine": "Сокольническая линия",
+      "transition": false
+    },
+    {
+      "name": "Ольховая",
+      "nameLine": "Сокольническая линия",
+      "depth": "?",
+      "transition": false
+    },
+    {
+      "name": "Коммунарка",
+      "nameLine": "Сокольническая линия",
+      "transition": false
+    },
+    {
+      "name": "Ховрино",
+      "nameLine": "Замоскворецкая линия",
+      "depth": "-14",
+      "transition": false
+    },
+    {
+      "name": "Беломорская",
+      "nameLine": "Замоскворецкая линия",
+      "transition": false
+    },
+    {
+      "name": "Речной вокзал",
+      "nameLine": "Замоскворецкая линия",
+      "transition": false
+    },
+    {
+      "name": "Водный стадион",
+      "nameLine": "Замоскворецкая линия",
+      "transition": false
+    },
+    {
+      "name": "Войковская",
+      "nameLine": "Замоскворецкая линия",
+      "depth": "-7",
+      "transition": true
+    },
+    {
+      "name": "Сокол",
+      "nameLine": "Замоскворецкая линия",
+      "depth": "-9,6",
+      "transition": false
+    },
+    {
+      "name": "Аэропорт",
+      "nameLine": "Замоскворецкая линия",
+      "depth": "-10",
+      "transition": false
+    },
+    {
+      "name": "Динамо",
+      "nameLine": "Замоскворецкая линия",
+      "transition": true
+    },
+    {
+      "name": "Белорусская",
+      "nameLine": "Замоскворецкая линия",
+      "depth": "-33,1",
+      "transition": true
+    },
+    {
+      "name": "Маяковская",
+      "nameLine": "Замоскворецкая линия",
+      "transition": false
+    },
+    {
+      "name": "Тверская",
+      "nameLine": "Замоскворецкая линия",
+      "transition": true
+    },
+    {
+      "name": "Театральная",
+      "nameLine": "Замоскворецкая линия",
+      "transition": true
+    },
+    {
+      "name": "Новокузнецкая",
+      "nameLine": "Замоскворецкая линия",
+      "transition": true
+    },
+    {
+      "name": "Павелецкая",
+      "nameLine": "Замоскворецкая линия",
+      "depth": "-33,5",
+      "transition": true
+    },
+    {
+      "name": "Автозаводская",
+      "nameLine": "Замоскворецкая линия",
+      "depth": "-11",
+      "transition": true
+    },
+    {
+      "name": "Технопарк",
+      "nameLine": "Замоскворецкая линия",
+      "transition": false
+    },
+    {
+      "name": "Коломенская",
+      "nameLine": "Замоскворецкая линия",
+      "transition": false
+    },
+    {
+      "name": "Каширская",
+      "nameLine": "Замоскворецкая линия",
+      "depth": "-7",
+      "transition": true
+    },
+    {
+      "name": "Кантемировская",
+      "nameLine": "Замоскворецкая линия",
+      "transition": false
+    },
+    {
+      "name": "Царицыно",
+      "nameLine": "Замоскворецкая линия",
+      "depth": "-8",
+      "transition": true
+    },
+    {
+      "name": "Орехово",
+      "nameLine": "Замоскворецкая линия",
+      "transition": false
+    },
+    {
+      "name": "Домодедовская",
+      "nameLine": "Замоскворецкая линия",
+      "depth": "-9,5",
+      "transition": false
+    },
+    {
+      "name": "Красногвардейская",
+      "nameLine": "Замоскворецкая линия",
+      "transition": true
+    },
+    {
+      "name": "Алма-Атинская",
+      "nameLine": "Замоскворецкая линия",
+      "depth": "-10",
+      "transition": false
+    },
+    {
+      "name": "Пятницкое шоссе",
+      "nameLine": "Арбатско-Покровская линия",
+      "transition": false
+    },
+    {
+      "name": "Митино",
+      "nameLine": "Арбатско-Покровская линия",
+      "transition": false
+    },
+    {
+      "name": "Волоколамская",
+      "nameLine": "Арбатско-Покровская линия",
+      "depth": "-14",
+      "transition": true
+    },
+    {
+      "name": "Мякинино",
+      "nameLine": "Арбатско-Покровская линия",
+      "transition": false
+    },
+    {
+      "name": "Строгино",
+      "nameLine": "Арбатско-Покровская линия",
+      "depth": "-8",
+      "transition": false
+    },
+    {
+      "name": "Крылатское",
+      "nameLine": "Арбатско-Покровская линия",
+      "transition": false
+    },
+    {
+      "name": "Молодежная",
+      "nameLine": "Арбатско-Покровская линия",
+      "transition": false
+    },
+    {
+      "name": "Кунцевская",
+      "nameLine": "Арбатско-Покровская линия",
+      "transition": true
+    },
+    {
+      "name": "Славянский бульвар",
+      "nameLine": "Арбатско-Покровская линия",
+      "transition": true
+    },
+    {
+      "name": "Парк Победы",
+      "nameLine": "Арбатско-Покровская линия",
+      "transition": true
+    },
+    {
+      "name": "Киевская",
+      "nameLine": "Арбатско-Покровская линия",
+      "depth": "-8,7",
+      "transition": true
+    },
+    {
+      "name": "Смоленская",
+      "nameLine": "Арбатско-Покровская линия",
+      "transition": false
+    },
+    {
+      "name": "Арбатская",
+      "nameLine": "Арбатско-Покровская линия",
+      "depth": "-8",
+      "transition": true
+    },
+    {
+      "name": "Площадь Революции",
+      "nameLine": "Арбатско-Покровская линия",
+      "transition": true
+    },
+    {
+      "name": "Курская",
+      "nameLine": "Арбатско-Покровская линия",
+      "transition": true
+    },
+    {
+      "name": "Бауманская",
+      "nameLine": "Арбатско-Покровская линия",
+      "transition": false
+    },
+    {
+      "name": "Электрозаводская",
+      "nameLine": "Арбатско-Покровская линия",
+      "transition": true
+    },
+    {
+      "name": "Семеновская",
+      "nameLine": "Арбатско-Покровская линия",
+      "transition": false
+    },
+    {
+      "name": "Партизанская",
+      "nameLine": "Арбатско-Покровская линия",
+      "depth": "-9",
+      "transition": true
+    },
+    {
+      "name": "Измайловская",
+      "nameLine": "Арбатско-Покровская линия",
+      "transition": false
+    },
+    {
+      "name": "Первомайская",
+      "nameLine": "Арбатско-Покровская линия",
+      "transition": false
+    },
+    {
+      "name": "Щелковская",
+      "nameLine": "Арбатско-Покровская линия",
+      "transition": false
+    },
+    {
+      "name": "Александровский сад",
+      "nameLine": "Филевская линия",
+      "transition": true
+    },
+    {
+      "name": "Арбатская",
+      "nameLine": "Филевская линия",
+      "depth": "-8",
+      "transition": true
+    },
+    {
+      "name": "Смоленская",
+      "nameLine": "Филевская линия",
+      "transition": false
+    },
+    {
+      "name": "Киевская",
+      "nameLine": "Филевская линия",
+      "depth": "-8,7",
+      "transition": true
+    },
+    {
+      "name": "Студенческая",
+      "nameLine": "Филевская линия",
+      "transition": false
+    },
+    {
+      "name": "Кутузовская",
+      "nameLine": "Филевская линия",
+      "depth": "0",
+      "transition": true
+    },
+    {
+      "name": "Фили",
+      "nameLine": "Филевская линия",
+      "depth": "0",
+      "transition": true
+    },
+    {
+      "name": "Багратионовская",
+      "nameLine": "Филевская линия",
+      "transition": false
+    },
+    {
+      "name": "Филевский парк",
+      "nameLine": "Филевская линия",
+      "transition": false
+    },
+    {
+      "name": "Пионерская",
+      "nameLine": "Филевская линия",
+      "transition": false
+    },
+    {
+      "name": "Кунцевская",
+      "nameLine": "Филевская линия",
+      "transition": true
+    },
+    {
+      "name": "Выставочная",
+      "nameLine": "Филевская линия",
+      "transition": true
+    },
+    {
+      "name": "Международная",
+      "nameLine": "Филевская линия",
+      "depth": "-25",
+      "transition": true
+    },
+    {
+      "name": "Киевская",
+      "nameLine": "Кольцевая линия",
+      "depth": "-8,7",
+      "transition": true
+    },
+    {
+      "name": "Парк Культуры",
+      "nameLine": "Кольцевая линия",
+      "transition": true
+    },
+    {
+      "name": "Октябрьская",
+      "nameLine": "Кольцевая линия",
+      "depth": "-40",
+      "transition": true
+    },
+    {
+      "name": "Добрынинская",
+      "nameLine": "Кольцевая линия",
+      "depth": "-35,5",
+      "transition": true
+    },
+    {
+      "name": "Павелецкая",
+      "nameLine": "Кольцевая линия",
+      "depth": "-33,5",
+      "transition": true
+    },
+    {
+      "name": "Таганская",
+      "nameLine": "Кольцевая линия",
+      "depth": "-53",
+      "transition": true
+    },
+    {
+      "name": "Курская",
+      "nameLine": "Кольцевая линия",
+      "transition": true
+    },
+    {
+      "name": "Комсомольская",
+      "nameLine": "Кольцевая линия",
+      "transition": true
+    },
+    {
+      "name": "Проспект Мира",
+      "nameLine": "Кольцевая линия",
+      "transition": true
+    },
+    {
+      "name": "Новослободская",
+      "nameLine": "Кольцевая линия",
+      "transition": true
+    },
+    {
+      "name": "Белорусская",
+      "nameLine": "Кольцевая линия",
+      "depth": "-33,1",
+      "transition": true
+    },
+    {
+      "name": "Краснопресненская",
+      "nameLine": "Кольцевая линия",
+      "transition": true
+    },
+    {
+      "name": "Новоясеневская",
+      "nameLine": "Калужско-Рижская линия",
+      "transition": true
+    },
+    {
+      "name": "Ясенево",
+      "nameLine": "Калужско-Рижская линия",
+      "transition": false
+    },
+    {
+      "name": "Теплый стан",
+      "nameLine": "Калужско-Рижская линия",
+      "transition": false
+    },
+    {
+      "name": "Коньково",
+      "nameLine": "Калужско-Рижская линия",
+      "transition": false
+    },
+    {
+      "name": "Беляево",
+      "nameLine": "Калужско-Рижская линия",
+      "depth": "-12",
+      "transition": false
+    },
+    {
+      "name": "Калужская",
+      "nameLine": "Калужско-Рижская линия",
+      "transition": false
+    },
+    {
+      "name": "Новые Черёмушки",
+      "nameLine": "Калужско-Рижская линия",
+      "depth": "-7",
+      "transition": false
+    },
+    {
+      "name": "Профсоюзная",
+      "nameLine": "Калужско-Рижская линия",
+      "transition": false
+    },
+    {
+      "name": "Академическая",
+      "nameLine": "Калужско-Рижская линия",
+      "depth": "-8,5",
+      "transition": false
+    },
+    {
+      "name": "Ленинский проспект",
+      "nameLine": "Калужско-Рижская линия",
+      "depth": "-16",
+      "transition": true
+    },
+    {
+      "name": "Шаболовская",
+      "nameLine": "Калужско-Рижская линия",
+      "depth": "-46,5",
+      "transition": false
+    },
+    {
+      "name": "Октябрьская",
+      "nameLine": "Калужско-Рижская линия",
+      "depth": "-40",
+      "transition": true
+    },
+    {
+      "name": "Третьяковская",
+      "nameLine": "Калужско-Рижская линия",
+      "depth": "-46",
+      "transition": true
+    },
+    {
+      "name": "Китай-город",
+      "nameLine": "Калужско-Рижская линия",
+      "transition": true
+    },
+    {
+      "name": "Тургеневская",
+      "nameLine": "Калужско-Рижская линия",
+      "transition": true
+    },
+    {
+      "name": "Сухаревская",
+      "nameLine": "Калужско-Рижская линия",
+      "depth": "-43",
+      "transition": false
+    },
+    {
+      "name": "Проспект Мира",
+      "nameLine": "Калужско-Рижская линия",
+      "transition": true
+    },
+    {
+      "name": "Рижская",
+      "nameLine": "Калужско-Рижская линия",
+      "transition": false
+    },
+    {
+      "name": "Алексеевская",
+      "nameLine": "Калужско-Рижская линия",
+      "transition": false
+    },
+    {
+      "name": "ВДНХ",
+      "nameLine": "Калужско-Рижская линия",
+      "transition": false
+    },
+    {
+      "name": "Ботанический сад",
+      "nameLine": "Калужско-Рижская линия",
+      "transition": true
+    },
+    {
+      "name": "Свиблово",
+      "nameLine": "Калужско-Рижская линия",
+      "transition": false
+    },
+    {
+      "name": "Бабушкинская",
+      "nameLine": "Калужско-Рижская линия",
+      "transition": false
+    },
+    {
+      "name": "Медведково",
+      "nameLine": "Калужско-Рижская линия",
+      "transition": false
+    },
+    {
+      "name": "Котельники",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "depth": "-15",
+      "transition": false
+    },
+    {
+      "name": "Жулебино",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "depth": "-15",
+      "transition": false
+    },
+    {
+      "name": "Лермонтовский проспект",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "transition": true
+    },
+    {
+      "name": "Выхино",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "transition": false
+    },
+    {
+      "name": "Рязанский проспект",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "depth": "-6",
+      "transition": false
+    },
+    {
+      "name": "Кузьминки",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "depth": "-8",
+      "transition": false
+    },
+    {
+      "name": "Текстильщики",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "transition": true
+    },
+    {
+      "name": "Волгоградский проспект",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "depth": "-8",
+      "transition": true
+    },
+    {
+      "name": "Пролетарская",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "transition": true
+    },
+    {
+      "name": "Таганская",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "depth": "-53",
+      "transition": true
+    },
+    {
+      "name": "Китай-город",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "transition": true
+    },
+    {
+      "name": "Кузнецкий мост",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "transition": true
+    },
+    {
+      "name": "Пушкинская",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "depth": "-51",
+      "transition": true
+    },
+    {
+      "name": "Баррикадная",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "transition": true
+    },
+    {
+      "name": "Улица 1905 года",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "transition": false
+    },
+    {
+      "name": "Беговая",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "depth": "-9",
+      "transition": true
+    },
+    {
+      "name": "Полежаевская",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "transition": true
+    },
+    {
+      "name": "Октябрьское Поле",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "transition": true
+    },
+    {
+      "name": "Щукинская",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "transition": false
+    },
+    {
+      "name": "Спартак",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "depth": "-10",
+      "transition": false
+    },
+    {
+      "name": "Тушинская",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "transition": true
+    },
+    {
+      "name": "Сходненская",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "depth": "-6",
+      "transition": false
+    },
+    {
+      "name": "Планерная",
+      "nameLine": "Таганско-Краснопресненская линия",
+      "depth": "-6",
+      "transition": false
+    },
+    {
+      "name": "Новокосино",
+      "nameLine": "Калининско-Солнцевская линия",
+      "transition": false
+    },
+    {
+      "name": "Новогиреево",
+      "nameLine": "Калининско-Солнцевская линия",
+      "transition": false
+    },
+    {
+      "name": "Перово",
+      "nameLine": "Калининско-Солнцевская линия",
+      "transition": false
+    },
+    {
+      "name": "Шоссе Энтузиастов",
+      "nameLine": "Калининско-Солнцевская линия",
+      "depth": "5",
+      "transition": true
+    },
+    {
+      "name": "Авиамоторная",
+      "nameLine": "Калининско-Солнцевская линия",
+      "depth": "-53",
+      "transition": true
+    },
+    {
+      "name": "Площадь Ильича",
+      "nameLine": "Калининско-Солнцевская линия",
+      "depth": "-46",
+      "transition": true
+    },
+    {
+      "name": "Марксистская",
+      "nameLine": "Калининско-Солнцевская линия",
+      "transition": true
+    },
+    {
+      "name": "Третьяковская",
+      "nameLine": "Калининско-Солнцевская линия",
+      "depth": "-46",
+      "transition": true
+    },
+    {
+      "name": "Деловой центр",
+      "nameLine": "Калининско-Солнцевская линия",
+      "depth": "-30",
+      "transition": true
+    },
+    {
+      "name": "Парк Победы",
+      "nameLine": "Калининско-Солнцевская линия",
+      "transition": true
+    },
+    {
+      "name": "Минская",
+      "nameLine": "Калининско-Солнцевская линия",
+      "transition": false
+    },
+    {
+      "name": "Ломоносовский проспект",
+      "nameLine": "Калининско-Солнцевская линия",
+      "transition": false
+    },
+    {
+      "name": "Раменки",
+      "nameLine": "Калининско-Солнцевская линия",
+      "transition": false
+    },
+    {
+      "name": "Мичуринский проспект",
+      "nameLine": "Калининско-Солнцевская линия",
+      "transition": false
+    },
+    {
+      "name": "Озёрная",
+      "nameLine": "Калининско-Солнцевская линия",
+      "depth": "-25",
+      "transition": false
+    },
+    {
+      "name": "Говорово",
+      "nameLine": "Калининско-Солнцевская линия",
+      "depth": "-14",
+      "transition": false
+    },
+    {
+      "name": "Солнцево",
+      "nameLine": "Калининско-Солнцевская линия",
+      "depth": "-13",
+      "transition": false
+    },
+    {
+      "name": "Боровское шоссе",
+      "nameLine": "Калининско-Солнцевская линия",
+      "transition": false
+    },
+    {
+      "name": "Новопеределкино",
+      "nameLine": "Калининско-Солнцевская линия",
+      "depth": "-16",
+      "transition": false
+    },
+    {
+      "name": "Рассказовка",
+      "nameLine": "Калининско-Солнцевская линия",
+      "depth": "-12",
+      "transition": false
+    },
+    {
+      "name": "Бульвар Дмитрия Донского",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "transition": true
+    },
+    {
+      "name": "Аннино",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "transition": false
+    },
+    {
+      "name": "Улица академика Янгеля",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "transition": false
+    },
+    {
+      "name": "Пражская",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "transition": false
+    },
+    {
+      "name": "Южная",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "depth": "-10",
+      "transition": false
+    },
+    {
+      "name": "Чертановская",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "depth": "-10,5",
+      "transition": false
+    },
+    {
+      "name": "Севастопольская",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "transition": false
+    },
+    {
+      "name": "Нахимовский Проспект",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "transition": false
+    },
+    {
+      "name": "Нагорная",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "transition": false
+    },
+    {
+      "name": "Нагатинская",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "depth": "-13,5",
+      "transition": false
+    },
+    {
+      "name": "Тульская",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "transition": false
+    },
+    {
+      "name": "Серпуховская",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "transition": true
+    },
+    {
+      "name": "Полянка",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "depth": "-36,5",
+      "transition": false
+    },
+    {
+      "name": "Боровицкая",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "transition": true
+    },
+    {
+      "name": "Чеховская",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "transition": true
+    },
+    {
+      "name": "Цветной бульвар",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "transition": true
+    },
+    {
+      "name": "Менделеевская",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "transition": true
+    },
+    {
+      "name": "Савеловская",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "transition": true
+    },
+    {
+      "name": "Дмитровская",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "depth": "-59",
+      "transition": true
+    },
+    {
+      "name": "Тимирязевская",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "depth": "6",
+      "transition": true
+    },
+    {
+      "name": "Петровско-Разумовская",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "depth": "-61",
+      "transition": true
+    },
+    {
+      "name": "Владыкино",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "transition": true
+    },
+    {
+      "name": "Отрадное",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "transition": false
+    },
+    {
+      "name": "Бибирево",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "depth": "-9,5",
+      "transition": false
+    },
+    {
+      "name": "Алтуфьево",
+      "nameLine": "Серпуховско-Тимирязевская линия",
+      "depth": "-9",
+      "transition": false
+    },
+    {
+      "name": "Зябликово",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "transition": true
+    },
+    {
+      "name": "Шипиловская",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "depth": "-10",
+      "transition": false
+    },
+    {
+      "name": "Борисово",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "depth": "-10",
+      "transition": false
+    },
+    {
+      "name": "Марьино",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "depth": "-8",
+      "transition": false
+    },
+    {
+      "name": "Братиславская",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "depth": "-8",
+      "transition": false
+    },
+    {
+      "name": "Люблино",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "depth": "-8",
+      "transition": false
+    },
+    {
+      "name": "Волжская",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "depth": "-8",
+      "transition": false
+    },
+    {
+      "name": "Печатники",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "transition": true
+    },
+    {
+      "name": "Кожуховская",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "depth": "-12",
+      "transition": false
+    },
+    {
+      "name": "Дубровка",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "depth": "-62",
+      "transition": true
+    },
+    {
+      "name": "Крестьянская застава",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "transition": true
+    },
+    {
+      "name": "Римская",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "depth": "-54",
+      "transition": true
+    },
+    {
+      "name": "Чкаловская",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "transition": true
+    },
+    {
+      "name": "Сретенский бульвар",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "transition": true
+    },
+    {
+      "name": "Трубная",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "transition": true
+    },
+    {
+      "name": "Достоевская",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "transition": false
+    },
+    {
+      "name": "Марьина роща",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "transition": false
+    },
+    {
+      "name": "Бутырская",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "depth": "-60",
+      "transition": false
+    },
+    {
+      "name": "Фонвизинская",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "transition": false
+    },
+    {
+      "name": "Петровско-Разумовская",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "depth": "-61",
+      "transition": true
+    },
+    {
+      "name": "Окружная",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "depth": "0",
+      "transition": true
+    },
+    {
+      "name": "Верхние Лихоборы",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "transition": false
+    },
+    {
+      "name": "Селигерская",
+      "nameLine": "Люблинско-Дмитровская линия",
+      "transition": false
+    },
+    {
+      "name": "Савёловская",
+      "nameLine": "Большая Кольцевая Линия",
+      "depth": "-52",
+      "transition": true
+    },
+    {
+      "name": "Петровский парк",
+      "nameLine": "Большая Кольцевая Линия",
+      "transition": true
+    },
+    {
+      "name": "ЦСКА",
+      "nameLine": "Большая Кольцевая Линия",
+      "transition": false
+    },
+    {
+      "name": "Хорошёвская",
+      "nameLine": "Большая Кольцевая Линия",
+      "transition": true
+    },
+    {
+      "name": "Шелепиха",
+      "nameLine": "Большая Кольцевая Линия",
+      "transition": true
+    },
+    {
+      "name": "Деловой центр",
+      "nameLine": "Большая Кольцевая Линия",
+      "depth": "-30",
+      "transition": true
+    },
+    {
+      "name": "Каховская",
+      "nameLine": "Каховская линия",
+      "transition": false
+    },
+    {
+      "name": "Варшавская",
+      "nameLine": "Каховская линия",
+      "depth": "-9",
+      "transition": false
+    },
+    {
+      "name": "Каширская",
+      "nameLine": "Каховская линия",
+      "depth": "-7",
+      "transition": true
+    },
+    {
+      "name": "Битцевский парк",
+      "nameLine": "Бутовская линия",
+      "depth": "-10",
+      "transition": true
+    },
+    {
+      "name": "Лесопарковая",
+      "nameLine": "Бутовская линия",
+      "depth": "-10",
+      "transition": false
+    },
+    {
+      "name": "Улица Старокачаловская",
+      "nameLine": "Бутовская линия",
+      "transition": true
+    },
+    {
+      "name": "Улица Скобелевская",
+      "nameLine": "Бутовская линия",
+      "depth": "9,6",
+      "transition": false
+    },
+    {
+      "name": "Бульвар адмирала Ушакова",
+      "nameLine": "Бутовская линия",
+      "transition": false
+    },
+    {
+      "name": "Улица Горчакова",
+      "nameLine": "Бутовская линия",
+      "transition": false
+    },
+    {
+      "name": "Бунинская Аллея",
+      "nameLine": "Бутовская линия",
+      "transition": false
+    },
+    {
+      "name": "Окружная",
+      "nameLine": "Центральное Кольцо",
+      "depth": "0",
+      "transition": true
+    },
+    {
+      "name": "Владыкино",
+      "nameLine": "Центральное Кольцо",
+      "transition": true
+    },
+    {
+      "name": "Ботанический Сад",
+      "nameLine": "Центральное Кольцо",
+      "transition": true
+    },
+    {
+      "name": "Ростокино",
+      "nameLine": "Центральное Кольцо",
+      "depth": "0",
+      "transition": false
+    },
+    {
+      "name": "Белокаменная",
+      "nameLine": "Центральное Кольцо",
+      "transition": false
+    },
+    {
+      "name": "Бульвар Рокоссовского",
+      "nameLine": "Центральное Кольцо",
+      "depth": "-8",
+      "transition": true
+    },
+    {
+      "name": "Локомотив",
+      "nameLine": "Центральное Кольцо",
+      "transition": true
+    },
+    {
+      "name": "Измайлово",
+      "nameLine": "Центральное Кольцо",
+      "depth": "5",
+      "transition": true
+    },
+    {
+      "name": "Соколиная Гора",
+      "nameLine": "Центральное Кольцо",
+      "transition": false
+    },
+    {
+      "name": "Шоссе Энтузиастов",
+      "nameLine": "Центральное Кольцо",
+      "depth": "5",
+      "transition": true
+    },
+    {
+      "name": "Андроновка",
+      "nameLine": "Центральное Кольцо",
+      "transition": false
+    },
+    {
+      "name": "Нижегородская",
+      "nameLine": "Центральное Кольцо",
+      "depth": "5",
+      "transition": true
+    },
+    {
+      "name": "Новохохловская",
+      "nameLine": "Центральное Кольцо",
+      "transition": true
+    },
+    {
+      "name": "Угрешская",
+      "nameLine": "Центральное Кольцо",
+      "transition": true
+    },
+    {
+      "name": "Дубровка",
+      "nameLine": "Центральное Кольцо",
+      "depth": "-62",
+      "transition": true
+    },
+    {
+      "name": "Автозаводская",
+      "nameLine": "Центральное Кольцо",
+      "depth": "-11",
+      "transition": true
+    },
+    {
+      "name": "ЗИЛ",
+      "nameLine": "Центральное Кольцо",
+      "transition": false
+    },
+    {
+      "name": "Верхние Котлы",
+      "nameLine": "Центральное Кольцо",
+      "transition": false
+    },
+    {
+      "name": "Крымская",
+      "nameLine": "Центральное Кольцо",
+      "transition": false
+    },
+    {
+      "name": "Площадь Гагарина",
+      "nameLine": "Центральное Кольцо",
+      "depth": "-5",
+      "transition": true
+    },
+    {
+      "name": "Лужники",
+      "nameLine": "Центральное Кольцо",
+      "transition": true
+    },
+    {
+      "name": "Кутузовская",
+      "nameLine": "Центральное Кольцо",
+      "depth": "0",
+      "transition": true
+    },
+    {
+      "name": "Деловой центр",
+      "nameLine": "Центральное Кольцо",
+      "depth": "-30",
+      "transition": true
+    },
+    {
+      "name": "Шелепиха",
+      "nameLine": "Центральное Кольцо",
+      "transition": true
+    },
+    {
+      "name": "Хорошёво",
+      "nameLine": "Центральное Кольцо",
+      "transition": true
+    },
+    {
+      "name": "Зорге",
+      "nameLine": "Центральное Кольцо",
+      "transition": true
+    },
+    {
+      "name": "Панфиловская",
+      "nameLine": "Центральное Кольцо",
+      "depth": "0",
+      "transition": true
+    },
+    {
+      "name": "Стрешнево",
+      "nameLine": "Центральное Кольцо",
+      "depth": "0",
+      "transition": true
+    },
+    {
+      "name": "Балтийская",
+      "nameLine": "Центральное Кольцо",
+      "transition": true
+    },
+    {
+      "name": "Коптево",
+      "nameLine": "Центральное Кольцо",
+      "depth": "0",
+      "transition": false
+    },
+    {
+      "name": "Лихоборы",
+      "nameLine": "Центральное Кольцо",
+      "transition": false
+    },
+    {
+      "name": "Электрозаводская",
+      "nameLine": "Некрасовская линия",
+      "transition": true
+    },
+    {
+      "name": "Лефортово",
+      "nameLine": "Некрасовская линия",
+      "depth": "?",
+      "transition": false
+    },
+    {
+      "name": "Авиамоторная",
+      "nameLine": "Некрасовская линия",
+      "depth": "-53",
+      "transition": true
+    },
+    {
+      "name": "Нижегородская",
+      "nameLine": "Некрасовская линия",
+      "depth": "5",
+      "transition": true
+    },
+    {
+      "name": "Стахановская",
+      "nameLine": "Некрасовская линия",
+      "depth": "?",
+      "transition": false
+    },
+    {
+      "name": "Окская",
+      "nameLine": "Некрасовская линия",
+      "depth": "?",
+      "transition": false
+    },
+    {
+      "name": "Юго-Восточная",
+      "nameLine": "Некрасовская линия",
+      "depth": "-20",
+      "transition": false
+    },
+    {
+      "name": "Косино",
+      "nameLine": "Некрасовская линия",
+      "transition": true
+    },
+    {
+      "name": "Улица Дмитриевского",
+      "nameLine": "Некрасовская линия",
+      "transition": false
+    },
+    {
+      "name
